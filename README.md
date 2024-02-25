@@ -19,3 +19,5 @@ instance_password=<PASSWORD>
 3. terraform plan, apply
 
 ## Document
+
+https://velog.io/@junho100/terraform%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-Linode-VM-%EC%9D%B4%EC%A4%91%ED%99%94-%EA%B5%AC%EC%84%B1
